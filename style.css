@@ -1,0 +1,56 @@
+*{
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+.navbar-toggler-icon{
+    background-color: #0d1b1a;
+}
+
+
+.navbar{
+    background-color: #f4f8fb;
+}
+
+#home{
+    font-weight: 400;
+}
+
+#about{
+    font-weight: 400;
+}
+
+#furni{
+    font-weight: 400;
+}
+
+#blog{
+    font-weight: 400;
+}
+
+#contact{
+    font-weight: 400;
+}
+
+.card-text2{
+    color: #177a71;
+    font-weight: 500;
+}
+
+.buttonabout{
+    background-color: #177a71;
+}
+
+.contact{
+    height: 60vh;
+    background-position: bottom;
+}
+
+#contact-container{
+    background-color: #dadee8;
+}
